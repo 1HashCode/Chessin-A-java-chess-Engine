@@ -1,5 +1,6 @@
 # Chessin
-![Untitled video - Made with Clipchamp (1)](https://github.com/user-attachments/assets/f485fb85-bbeb-44cc-9533-0ab7404ac474)
+![Untitled video - Made with Clipchamp (2)](https://github.com/user-attachments/assets/dd4d4e1b-d216-4879-9fcd-e0f50ffa0079)
+
 
 **Chessin** is a fully functional chess engine developed in pure Java. The project includes a graphical user interface (GUI), game logic, and an AI engine capable of playing chess against a human opponent. The AI engine uses advanced algorithms such as minimax search, alpha-beta pruning, and move ordering to provide a challenging experience.
 
