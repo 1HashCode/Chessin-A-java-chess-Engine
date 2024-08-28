@@ -1,0 +1,4 @@
+1) Software Architecture and Design -YouTube channel
+2) Sebastian Lague -YouTube channel -YouTube channel
+3) Effective java by Joshua Bloch -The Book
+4) Head First Design Patterns -The Book
